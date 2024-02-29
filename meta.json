@@ -1,15 +1,16 @@
 {
-  "schemaVersion": 7,
-  "currentVersion": "1.0.0",
-  "modpackName": "DivineMC",
-  "modpackAuthor": "SrNadien",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Jab125/TestModpackUpdateChecker/simple/",
-  "advanced": {
-    "bccEnabled": false,
-    "expandButton": false,
-    "updateCheckerType": 2,
-    "retroWarning": false,
-    "modpackMods": []
-  }
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "mega": "https://mega.nz/file/Y2cQHS7D#4228Zi6EwdUAzUCNmILqMKQesnZAKPwhl-HFns6b0zo",
+                "curseforge": "https://www.mediafire.com/file/nttqgkp1l7ltnis/Mages+Worls+Season+2.rar/file",
+                "generic": "https://example.com/"
+            }
+        }
+    } 
+  ]
 }
